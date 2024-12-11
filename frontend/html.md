@@ -137,3 +137,4 @@ Formulários capturam dados do usuário.
 
 Comece a explorar e praticar para solidificar seu conhecimento de HTML! Este guia é apenas o primeiro passo para criar páginas web incríveis.
 
+Aprenda também sobre [HTML Semântico](https://github.com/hitalloazevedo/trilhas/blob/main/frontend/html-semantico.md)
