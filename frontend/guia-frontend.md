@@ -23,3 +23,5 @@ Aqui está um documento com links para você aprender desenvolvimento web de for
     <li><a href="https://github.com/TheOdinProject/curriculum/tree/main/intermediate_html_css">Conceitos intermediários HTML e CSS - The Odin Project</a></li>
     <li><a href="https://github.com/TheOdinProject/curriculum/tree/main/advanced_html_css">Conceitos avançados HTML e CSS - The Odin Project</a></li>
 </ol>
+
+<strong>Documentação Oficial do HTML</strong> <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML">Acesse aqui</a>
