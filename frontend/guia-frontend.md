@@ -2,6 +2,8 @@
 Aqui está um documento com links para você aprender desenvolvimento web de forma gratuita.
 
 #### HTML e CSS
+
+##### Fundamentos
 <ol>
     <li>Plataforma do Curso em Vídeo</li>
     <ul>
@@ -14,6 +16,10 @@ Aqui está um documento com links para você aprender desenvolvimento web de for
     <li><a href="https://www.w3schools.com/html/default.asp">W3Schools</a></li>
     <li><a href="https://www.youtube.com/watch?v=ijv8-PeLZ_o">Introdução a HTML + 2 horas de projeto</a></li>
     <li><a href="https://github.com/TheOdinProject/curriculum/tree/main/foundations/html_css">Fundamentos do HTML e CSS - The Odin Project</a></li>
+</ol>
+
+##### Avançando nos conceitos
+<ol>
     <li><a href="https://github.com/TheOdinProject/curriculum/tree/main/intermediate_html_css">Conceitos intermediários HTML e CSS - The Odin Project</a></li>
     <li><a href="https://github.com/TheOdinProject/curriculum/tree/main/advanced_html_css">Conceitos avançados HTML e CSS - The Odin Project</a></li>
 </ol>
